@@ -1,0 +1,23 @@
+.inline-forms {
+  display: inline-flex;
+}
+
+.css-cyxlny-MuiPaper-root-MuiDialog-paper {
+  height: 80%;
+}
+
+.css-1q60rmi-MuiAutocomplete-endAdornment {
+  top: auto !important;
+}
+
+input[type="date"], input[name="numOfDaysWorked"] {
+  margin-top: -4px;
+}
+
+input[type="date-textfield"] {
+  margin-right: 25px;
+}
+
+.MuiAutocomplete-root.MuiAutocomplete-hasPopupIcon.css-168o85v-MuiAutocomplete-root {
+  margin: 0 25px;
+}
